@@ -685,6 +685,10 @@ a.btn {
     position: absolute;
   }
 
+  .main-post.content {
+    width: 100% !important;
+  }
+
   .footer {
     display: none;
   }
