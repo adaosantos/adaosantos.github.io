@@ -685,7 +685,7 @@ a.btn {
     position: absolute;
   }
 
-  .main-post.content {
+  .main-post .content {
     width: 100% !important;
   }
 
