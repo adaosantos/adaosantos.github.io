@@ -128,6 +128,11 @@ a:hover, a:active {
   height: 60px;
   border-bottom: 1px solid #f2f2f2;
 }
+
+.main-post .page-top {
+  width: 100% !important;
+}
+
 .page-top .nav {
   list-style: none;
   padding: 18px 30px;
