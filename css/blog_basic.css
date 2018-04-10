@@ -244,6 +244,7 @@ html {
                     font-size: 1.3rem; }
 
                     img {
+                      max-width: 50%;
                       height: auto; }
 
                       p, ul, ol, dl {
@@ -259,7 +260,9 @@ html {
 
                             a img {
                               border: none; }
-
+.sidebar img {
+  max-width: 50%;
+}
 dl dt {
   float: left;
   width: 180px;
